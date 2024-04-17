@@ -1,0 +1,20 @@
+{
+    "font.family": "serif",
+    "mathtext.fontset": "cm",
+    "figure.dpi": 120,
+    "figure.figsize": [
+        4,
+        3.5
+    ],
+    "figure.facecolor": "white",
+    "grid.linestyle": "dashed",
+    "axes.labelsize": 12,
+    "xtick.top": true,
+    "xtick.direction": "in",
+    "xtick.minor.visible": true,
+    "ytick.right": true,
+    "ytick.direction": "in",
+    "ytick.minor.visible": true,
+    "legend.framealpha": 1.0
+}
+
